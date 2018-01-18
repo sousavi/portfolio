@@ -1,11 +1,11 @@
-#leftHalf {
+.leftHalf {
    background: url(images/bg-1.jpg);
    width: 50%;
    position: absolute;
    left: 0px;
    height: 100%;
 }
-#rightHalf {
+.rightHalf {
    background: url(images/bg-2.jpg);
    width: 50%;
    position: absolute;
