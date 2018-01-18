@@ -1,14 +1,6 @@
-.leftHalf {
-   background: white;
-   width: 50%;
-   position: absolute;
-   left: 0px;
-   height: 100%;
+html{
+  height:100%
 }
-.rightHalf {
-   background: grey;
-   width: 50%;
-   position: absolute;
-   right: 0px;
-   height: 100%;
+body{
+  height:100%;
 }
