@@ -1,12 +1,12 @@
 .leftHalf {
-   background: url(images/bg-1.jpg);
+   background: white;
    width: 50%;
    position: absolute;
    left: 0px;
    height: 100%;
 }
 .rightHalf {
-   background: url(images/bg-2.jpg);
+   background: grey;
    width: 50%;
    position: absolute;
    right: 0px;
